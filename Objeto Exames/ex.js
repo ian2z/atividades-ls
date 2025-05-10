@@ -48,6 +48,7 @@ class Exam {
   }
 }
 
+//parte de teste do codigo
 const gabarito = ['a', 'b', 'a', 'c', 'd'];
 const pesos = [2, 2, 2, 2, 2];
 const prova = new Exam(gabarito, pesos);
